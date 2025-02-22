@@ -17,7 +17,7 @@ This project analyzes air pollution trends in Delhi using time series data of ke
 
 
 ## Dependencies  
-- Python 3.x  
+- Python 
 - Pandas  
 - Plotly  
 - Matplotlib  
